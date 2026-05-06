@@ -6,7 +6,7 @@ class homepage
         this.page=page
         this.manageoption="//span[text()='Manage']"
         this.menu="//img[@alt='menu']"
-        this.logout="//button[text()='Sign out']"
+        this.logout="//button[text()='Sign out']" 
 
     }
 
